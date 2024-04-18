@@ -1,0 +1,7 @@
+{
+  "name": "projcomplementar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
